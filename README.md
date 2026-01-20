@@ -57,6 +57,6 @@ Power BI, Tableau, Plotly, Matplotlib, Seaborn
   End-to-end data processing, LLM modeling, and deployment  
   🔗 [GitHub Repo](https://github.com/SrihariThipparthi/Assignment-BookXpert)
 
-## 🐍 GitHub Contribution Snake
+![GitHub Contribution Snake](https://raw.githubusercontent.com/SrihariThipparthi/SrihariThipparthi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/SrihariThipparthi/SrihariThipparthi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/SrihariThipparthi/SrihariThipparthi/output/github-contribution-grid-snake.svg)
