@@ -18,6 +18,9 @@ I'm **Srihari Thipparthi**, a **Data Scientist & AI/ML Engineer** with a strong 
 **AI & Data Science:**  
 Machine Learning, Deep Learning, NLP, Generative AI, Prompt Engineering, Statistics, Data Wrangling & Visualization
 
+**Quantitative Research:**
+Linear Programming, Regression Models, Simulation Techniques, Mathematical Optimization, Mathematical Modeling
+
 **Programming:**  
 Python, SQL/MySQL, C++, Java, R, Bash, Git
 
