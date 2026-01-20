@@ -13,91 +13,47 @@ I'm **Srihari Thipparthi**, a **Data Scientist & AI/ML Engineer** with a strong 
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I enjoy turning complex AI problems into simple, practical solutions 🚀
 
-
 ## 🛠️ Skills & Expertise
 
-### Data Science & AI
-- Statistics & Probability  
-- Data Wrangling, Data Manipulation, Data Visualization  
-- Machine Learning & Deep Learning  
-- Natural Language Processing (NLP)  
-- Generative AI & Prompt Engineering  
+**AI & Data Science:**  
+Machine Learning, Deep Learning, NLP, Generative AI, Prompt Engineering, Statistics, Data Wrangling & Visualization
 
-### Programming Languages & Tools
-- Python (Data Analysis, Machine Learning, Automation)  
-- SQL, MySQL  
-- C++, Java  
-- R (Statistical Computing)  
-- Bash / Shell Scripting  
-- Git (Version Control)  
+**Programming:**  
+Python, SQL/MySQL, C++, Java, R, Bash, Git
 
-### AI Frameworks & Libraries
-- LangChain, LangGraph  
-- Hugging Face Transformers  
-- PandasAI  
-- OpenAI APIs  
-- ComfyUI  
-- AWS Bedrock Flows  
+**Frameworks & Tools:**  
+LangChain, LangGraph, Hugging Face, PandasAI, OpenAI APIs, ComfyUI
 
-### Cloud Computing & MLOps
-**Amazon Web Services (AWS):**
-- SageMaker, Bedrock, Glue  
-- EC2, ECS, ECR, S3  
-- Lambda, API Gateway  
-- CloudFormation  
-- SQS, SNS, IoT Core  
+**Cloud & MLOps:**  
+AWS (SageMaker, Bedrock, EC2, S3, Lambda, Glue, ECS/ECR, API Gateway, SQS/SNS),  
+GCP (BigQuery, Dataflow, Cloud Functions, Vertex AI)
 
-**Google Cloud Platform (GCP):**
-- BigQuery  
-- Cloud Functions  
-- Dataflow  
-- Cloud Build  
-- Cloud Storage (GCS)  
-- Cloud SQL  
-- Vertex AI  
-
-### Business Intelligence & Visualization
-- Power BI (Dashboard Development, Data Integration)  
-- Tableau (Insights & Reporting)  
-- Plotly  
-- Matplotlib  
-- Seaborn  
-
-### Quantitative & Mathematical Skills
-- Linear Programming  
-- Regression Models  
-- Simulation Techniques  
-- Mathematical Optimization  
-- Mathematical Modeling
+**BI & Analytics:**  
+Power BI, Tableau, Plotly, Matplotlib, Seaborn
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="32"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="32"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
 </p>
+
 
 ## 📌 Featured Projects
 
 - 🔹 **AI/ML Assignment – BookXpert**  
   End-to-end data processing, LLM modeling, and deployment  
   🔗 [GitHub Repo](https://github.com/SrihariThipparthi/Assignment-BookXpert)
-
-
-
-
 
